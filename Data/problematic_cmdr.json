@@ -1,0 +1,116 @@
+{
+    "commanders" : [
+        {
+            "name" : "Magda, Brazen Outlaw",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Razaketh, the Foulblooded",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Varragoth, Bloodsky Sire",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Sidisi, Undead Vizier",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Oswald Fiddlebender",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Zur the Enchanter",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Godo, Bandit Warlord",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Light-Paws, Emperor's Voice",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2. While it can't assemble combos easily, Paws can typically protect itself well the turn it comes out and begin threatening lethal soon after. "
+        },
+        {
+            "name" : "Captain Sisay",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Sisay, Weatherlight Captain",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Rocco, Cabaretti Caterer",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Scion of the Ur-Dragon",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2. Scion can assemble some nasty setups pretty quickly, such as the Moltensteel/Skithryx line which can one-hit kill players very early on."
+        },
+        {
+            "name" : "Yisan, the Wanderer Bard",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Arcum Dagsson",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Prime Speaker Vannifar",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Iron Man, Titan of Innovation",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Maralen of the Mornsong",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2. While Maralen's effect is symmetrical, effects like Opposition Agent effectively end the game the turn after she hits the board."
+        },
+        {
+            "name" : "Momir Vig, Simic Visionary",
+            "reasoning" : "As a commander, this card offers a flexible and repeatable tutor that will frequently be accessible to the player, which violates WoTC's 'few tutors' clause for Bracket 2."
+        },
+        {
+            "name" : "Chulane, Teller of Tales",
+            "reasoning" : "This commander is infamous for providing insane generic value into the midgame, and as such may not sit as well in Bracket 2 even with comparably weak decklists. We bias the ranking slightly to compensate."
+        },
+        {
+            "name" : "Oloro, Ageless Ascetic",
+            "reasoning" : "Our estimate biases decks with Eminence at the helm, and Oloro is effectively an eminence commander."
+        },
+        {
+            "name" : "Korvold, Fae-Cursed King",
+            "reasoning" : "This commander is infamous for providing insane generic value into the midgame, and as such may not sit as well in Bracket 2 even with comparably weak decklists. We bias the ranking slightly to compensate."
+        },
+        {
+            "name" : "Derevi, Empyrial Tactician",
+            "reasoning" : "Like Yuriko, Derevi's cheat-in ability means that in brackets where effects like Cursed Totem aren't common, she is effectively impossible to keep off the board. As such, we bias the scoring slightly here."
+        },
+        {
+            "name" : "Zada, Hedron Grinder",
+            "reasoning" : "Zada is the quintissential $50 sweat deck- we all know that a Zada deck can clear a bracket 4 game with a pipe bomb made in a cave with a box of scraps. As such, a bias is applied to decks with Zada at the helm."
+        },
+        {
+            "name" : "The Gitrog Monster",
+            "reasoning" : "This commander is infamous for providing insane generic value into the midgame, and as such may not sit as well in Bracket 2 even with comparably weak decklists. We bias the ranking slightly to compensate."
+        },
+        {
+            "name" : "Prosper, Tome-Bound",
+            "reasoning" : "This commander is infamous for providing insane generic value into the midgame, and as such may not sit as well in Bracket 2 even with comparably weak decklists. We bias the ranking slightly to compensate."
+        },
+        {
+            "name" : "Ivy, Gleeful Spellthief",
+            "reasoning" : "Ivy is a pretty unique commander- while many Ivy decks don't use too many generically powerful cards, the unique options the commander provides mean that she can still be immensely threatening. As such, we include a slight bias here in an attempt to compensate."
+        },
+        {
+            "name" : "Thrasios, Triton Hero",
+            "reasoning" : "Thrasios is the king of partners for good reason- his ability is at worst a mana sink to rectify some bad draws, and at best capable of drawing your entire deck. This, combined with partner, mean that we bias decks with these commanders slightly."
+        },
+        {
+            "name" : "Tymna the Weaver",
+            "reasoning" : "While most partners can be generically strong, Tymna stands above her peers as a powerful early game draw engine. This, combined with partner, mean that we bias decks with these commanders slightly."
+        }
+    ]
+}
